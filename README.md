@@ -1,7 +1,4 @@
-# ideal-octo-disco
-Simple Web Driver Example
+Link com o vídeo de demonstração dos testes:
 
+https://youtu.be/CHm-3Z4W740
 
-    $ git clone https://github.com/masmangan/ideal-octo-disco.git  
-    $ cd ideal-octo-disco/
-    $ mvn test
