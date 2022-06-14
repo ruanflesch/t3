@@ -1,3 +1,5 @@
+package io.github.bonigarcia.wdm.test;
+
 import static org.openqa.selenium.support.ui.ExpectedConditions.textToBePresentInElementLocated;
 
 import org.junit.After;
